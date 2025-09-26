@@ -1,3 +1,5 @@
+package lab1;
+
 public class Ellipse extends Rectangle {
 
   public Ellipse(int width, int height) {

@@ -1,3 +1,5 @@
+package lab1;
+
 /**
 * Driver class to test Rectangle objects
 */

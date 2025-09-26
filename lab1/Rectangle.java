@@ -1,3 +1,5 @@
+package lab1;
+
 public class Rectangle extends Shape {
 
   private int width;
